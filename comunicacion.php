@@ -98,7 +98,7 @@ body{
         .logo-imagen img {
           display:flex;
     position: absolute;
-    top: 1900px;
+    top: 2200px;
     right: 80px;
 }
 
@@ -227,16 +227,17 @@ body{
       <div class="contenedor">
         <div class="imagenes">
           <div class="imagen">
-            <img src="images/derecho2.jpg" alt="Imagen 1" >
-            <div class="texto-imagen"><h1>CARRERA DE DERECHO</h1></div>
+            <img src="images/comunicacion.jpg" alt="Imagen 1" >
+            <div class="texto-imagen"><h1>CARRERA DE COMUNICACION SOCIAL</h1></div>
             <div class="texto-imagen2">Facultad de Derecho, Ciencias Políticas y Sociales</div>
         <nav class="nav">
             <ul>
-                <li><a href="derecho.php">Inicio</a></li>
-                <li><a href="derecho_perfi.php">Perfil de la carrera</a></li>
-                <li><a href="https://si.usfx.bo/planestudio/ctrl/index.php?id=0&pag=123&ex=yes&op=pln&idc=7&idp=11&idf=PS">Plan de estudio</a></li>
+                <li><a href="comuni_perfi.php">Perfil de la carrera</a></li>
+                <li><a href="https://si.usfx.bo/planestudio/ctrl/index.php?id=0&pag=123&ex=yes&op=pln&idc=23&idp=11&idf=PS">Plan de estudio</a></li><li><a href="comunicacion.php">Inicio</a></li>
+                <li><a href="https://www.facebook.com/RadioUniversitariaSucre/">Radio Universitaria</a></li>
             </ul>
         </nav>
+        <br>
         <br>
         <br>
         <br>
@@ -244,26 +245,18 @@ body{
         <section class="container2">
         <div class="card">
             <div class="card-content">
-                <h3>Mision</h3>
-                <p>"Nuestro objetivo es contribuir de manera eficiente y eficaz al desarrollo socioeconómico sostenido.
-                   Formamos profesionales con una clara conciencia de sus derechos, obligaciones y valores étnico-culturales. Además, les dotamos de conocimientos y habilidades para utilizar los recursos no renovables con criterio de preservación, y la riqueza renovable con 
-                  imaginación, creatividad y respeto al medio ambiente. Promovemos la investigación, la ciencia y la tecnología al servicio de la sociedad."</p>
+                <h3>Radio Universitaria</h3>
+                <p>Los estudiantes de la Carrera de Ciencias de la Comunicación Social de la Universidad San Francisco Xavier de Chuquisaca operan la Radio Universitaria 94.0 FM en Sucre. Esta iniciativa ofrece 
+                    a los universitarios la oportunidad de poner en práctica sus habilidades de comunicación mientras contribuyen a la difusión de contenido educativo, cultural y de interés para la comunidad local.</p>
             </div>
         </div>
 
         <div class="card">
             <div class="card-content">
-                <h3>Vision</h3>
-                <p>"Nos esforzamos por ser una institución de Estudios Superiores autónoma, arraigada en valores y principios humanísticos y democráticos. Buscamos un amplio reconocimiento a nivel nacional e internacional,
-                   respondiendo con eficiencia y eficacia a la demanda de desarrollo social, humano y científico a través de nuestros procesos de formación, investigación e interacción."</p>
-            </div>
-        </div>
-
-        <div class="card">
-            <div class="card-content">
-                <h3>objetiivo</h3>
-                <p>Formar profesionales abogados integrales con sentido humanista y compromiso social, capacitados en el manejo idóneo del derecho plural, que sin importar los ámbitos en los que se desenvuelvan sean capaces de contribuir al desarrollo del pensamiento 
-                  jurídico boliviano, a través de la investigación y la producción intelectual, así como capaces de demostrar destreza en el ámbito de la práctica jurídica en sus diversas modalidades.</p>
+                <h3>bienvenida a la carrera de Ciencias de la Comunicacion Social </h3>
+                <p>Desde su fundación en 1989, la Carrera de Ciencias de la Comunicación Social de la Universidad San Francisco Xavier de Chuquisaca ha experimentado un crecimiento 
+                    notable en todos los aspectos. Con treinta y cuatro años de trayectoria, ha demostrado un desarrollo exponencial tanto en infraestructura como en la implementación de proyectos con impacto social significativo. Enraizada en la Facultad de Derecho, 
+                    Ciencias Políticas y Sociales, esta carrera ha consolidado su posición como un pilar importante en la formación de profesionales de la comunicación en la región.</p>
             </div>
         </div>
     </section>
@@ -275,9 +268,9 @@ body{
             
 
             <div class="imagen">
-                <img src="images/derecho3.jpg" alt="Imagen 2">
+                <img src="images/comunicacion2.jpg" alt="Imagen 2">
                 <div class="texto-imagen3">ELIGE LA MEJOR DE LAS CARRERAS</div>
-                <div class="texto-imagen4">Derecho</div>
+                <div class="texto-imagen4">Comunicacion Social</div>
             </div>
         </div>
     </div>
@@ -285,16 +278,9 @@ body{
     <section class="container2">
       <div class="card-content">
         <h3>Historia</h3>
-        <p>En el siglo XVII el arzobispo Cristóbal de Castilla y Zamora instaura tres cátedras de leyes en la universidad 
-          “por instrumento público del 13 de octubre de 1681, ante el escribano público y cabildo Pedro de La Torre”. 
-          Así comienzan los estudios de jurisprudencia en La Plata. Desde muy temprano en la universidad San Francisco Xavier se utilizó el término de Facultad en vez
-           de carrera por la virtud, propiedad, potencia y facultad de otorgar títulos de acuerdo a las cátedras que se impartían.
-En el siglo XVIII sigue siendo una Facultad de Sagrada Teología y Derecho a la que se sumaría en febrero del año 1776 la Real Academia Carolina de práctica jurídica.
-En el siglo XIX la facultad jugara un rol importante en la lucha por la independencia y en la formación de las leyes de la nueva nación. En el siglo XX albergara dos
- carreras: Derecho y Comunicación Social. Y en el siglo XXI se fortalece la Facultad de Derecho, Ciencias Políticas y Sociales que fue la primera en crearse,
-  por lo que es la más emblemática de la universidad.
-Las carreras con las que actualmente cuenta la Facultad de Derecho, Ciencias Políticas y Sociales son cuatro: Derecho, Ciencias de la Comunicación, Sociología e Historia.
-</p>
+        <p>La Carrera de Comunicación Social, es dependiente de la Facultad de Derecho, Ciencias Políticas y Sociales de la Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca. 
+            Es la única unidad académica, en la ciudad de Sucre, capacitada para formar Comunicadores Sociales Profesionales. 
+            La Carrera acoge en su seno a estudiantes de la ciudad de Sucre, del departamento de Chuquisaca, de los diferentes puntos del país, e incluso, estudiantes que vienen de algunos países vecinos.</p>
       </div>
 
     </section>

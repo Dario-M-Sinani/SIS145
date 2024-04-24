@@ -65,7 +65,7 @@ body{
         }
         .texto-imagen3 {
             position: absolute;
-            bottom: -980px;
+            bottom: -1500px;
             right: 700px;
             background-color: rgba(0, 0, 0, 0);
             color: white;
@@ -77,7 +77,7 @@ body{
         }
         .texto-imagen4 {
             position: absolute;
-            bottom: -1100px;
+            bottom: -1700px;
             right:1000px;
             background-color: rgba(0, 0, 0, 0);
             color: white;
@@ -98,7 +98,7 @@ body{
         .logo-imagen img {
           display:flex;
     position: absolute;
-    top: 1900px;
+    top: 2500px;
     right: 80px;
 }
 
@@ -141,17 +141,17 @@ body{
 
 
         .container2 {
-    display: flex; /* Arrange cards in a row */
-    flex-wrap: wrap; /* Wrap cards to the next line if they don't fit */
-    justify-content: space-around; /* Distribute cards evenly with space between them */
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-around; 
     margin: 20px;
 }
 
 .card {
-    width: 300px; /* Adjust card width as needed */
+    width: 300px; 
     margin-bottom: 20px;
     background-color:#D7D9D6;
-    border: none; /* Remove borders */
+    border: none; 
     }
 
 
@@ -213,10 +213,10 @@ body{
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="derecho.php">Derecho </a></li>
                   <li>
-                    <a class="dropdown-item" href="comunicacion.php">Comunicacion sociol</a>
+                    <a class="dropdown-item" href="#">Comunicacion social</a>
                   </li>
                   <li><a class="dropdown-item" href="sociologia.php">Sociologia</a></li>
-                  <li><a class="dropdown-item" href="historia.php">Historia</a></li>
+                  <li><a class="dropdown-item" href="#">Historia</a></li>
                   <li><hr class="dropdown-divider" /></li>
                   <li>
                     
@@ -227,14 +227,14 @@ body{
       <div class="contenedor">
         <div class="imagenes">
           <div class="imagen">
-            <img src="images/derecho2.jpg" alt="Imagen 1" >
-            <div class="texto-imagen"><h1>CARRERA DE DERECHO</h1></div>
+            <img src="images/sociologia.jpg" alt="Imagen 1" >
+            <div class="texto-imagen"><h1>CARRERA DE SOCIOLOGIA</h1></div>
             <div class="texto-imagen2">Facultad de Derecho, Ciencias Políticas y Sociales</div>
         <nav class="nav">
             <ul>
-                <li><a href="derecho.php">Inicio</a></li>
-                <li><a href="derecho_perfi.php">Perfil de la carrera</a></li>
-                <li><a href="https://si.usfx.bo/planestudio/ctrl/index.php?id=0&pag=123&ex=yes&op=pln&idc=7&idp=11&idf=PS">Plan de estudio</a></li>
+                <li><a href="sociologia.php">Inicio</a></li>
+                <li><a href="sociologio_perfi.php">Perfil de la carrera</a></li>
+                <li><a href="https://si.usfx.bo/planestudio/ctrl/index.php?id=0&pag=123&ex=yes&op=pln&idc=61&idp=1&idf=PS">Plan de estudio</a></li>
             </ul>
         </nav>
         <br>
@@ -245,25 +245,26 @@ body{
         <div class="card">
             <div class="card-content">
                 <h3>Mision</h3>
-                <p>"Nuestro objetivo es contribuir de manera eficiente y eficaz al desarrollo socioeconómico sostenido.
-                   Formamos profesionales con una clara conciencia de sus derechos, obligaciones y valores étnico-culturales. Además, les dotamos de conocimientos y habilidades para utilizar los recursos no renovables con criterio de preservación, y la riqueza renovable con 
-                  imaginación, creatividad y respeto al medio ambiente. Promovemos la investigación, la ciencia y la tecnología al servicio de la sociedad."</p>
+                <p>"Nos enfocamos en desarrollar un proceso de formación profesional de alta calidad, respaldado por una administración y gestión educativa eficiente. 
+                    Estamos comprometidos con abordar las problemáticas tanto del departamento como del país en nuestro quehacer educativo."</p>
             </div>
         </div>
 
         <div class="card">
             <div class="card-content">
                 <h3>Vision</h3>
-                <p>"Nos esforzamos por ser una institución de Estudios Superiores autónoma, arraigada en valores y principios humanísticos y democráticos. Buscamos un amplio reconocimiento a nivel nacional e internacional,
-                   respondiendo con eficiencia y eficacia a la demanda de desarrollo social, humano y científico a través de nuestros procesos de formación, investigación e interacción."</p>
+                <p>"Buscamos establecer una carrera de Sociología institucionalizada con prestigio y reconocimiento a nivel local, nacional e internacional. 
+                    A través de la integración de procesos de formación de recursos humanos, investigación,
+                     producción y difusión de conocimientos, así como la interacción social, nuestra carrera participa 
+                     activamente en la transformación y desarrollo sostenible tanto de Chuquisaca como de Bolivia."</p>
             </div>
         </div>
 
         <div class="card">
             <div class="card-content">
-                <h3>objetiivo</h3>
-                <p>Formar profesionales abogados integrales con sentido humanista y compromiso social, capacitados en el manejo idóneo del derecho plural, que sin importar los ámbitos en los que se desenvuelvan sean capaces de contribuir al desarrollo del pensamiento 
-                  jurídico boliviano, a través de la investigación y la producción intelectual, así como capaces de demostrar destreza en el ámbito de la práctica jurídica en sus diversas modalidades.</p>
+                <h3>objetivo</h3>
+                <p>"Fomentar la capacitación integral de nuestros estudiantes en el análisis sociológico, la investigación social y la aplicación de teorías y metodologías sociológicas en la comprensión 
+                    y transformación de los procesos sociales, promoviendo así su inserción activa y efectiva en diversos ámbitos profesionales y contribuyendo al desarrollo sostenible de la sociedad."</p>
             </div>
         </div>
     </section>
@@ -275,9 +276,9 @@ body{
             
 
             <div class="imagen">
-                <img src="images/derecho3.jpg" alt="Imagen 2">
+                <img src="images/sociologia3.jpg" alt="Imagen 2">
                 <div class="texto-imagen3">ELIGE LA MEJOR DE LAS CARRERAS</div>
-                <div class="texto-imagen4">Derecho</div>
+                <div class="texto-imagen4">Sociologia</div>
             </div>
         </div>
     </div>
@@ -285,16 +286,11 @@ body{
     <section class="container2">
       <div class="card-content">
         <h3>Historia</h3>
-        <p>En el siglo XVII el arzobispo Cristóbal de Castilla y Zamora instaura tres cátedras de leyes en la universidad 
-          “por instrumento público del 13 de octubre de 1681, ante el escribano público y cabildo Pedro de La Torre”. 
-          Así comienzan los estudios de jurisprudencia en La Plata. Desde muy temprano en la universidad San Francisco Xavier se utilizó el término de Facultad en vez
-           de carrera por la virtud, propiedad, potencia y facultad de otorgar títulos de acuerdo a las cátedras que se impartían.
-En el siglo XVIII sigue siendo una Facultad de Sagrada Teología y Derecho a la que se sumaría en febrero del año 1776 la Real Academia Carolina de práctica jurídica.
-En el siglo XIX la facultad jugara un rol importante en la lucha por la independencia y en la formación de las leyes de la nueva nación. En el siglo XX albergara dos
- carreras: Derecho y Comunicación Social. Y en el siglo XXI se fortalece la Facultad de Derecho, Ciencias Políticas y Sociales que fue la primera en crearse,
-  por lo que es la más emblemática de la universidad.
-Las carreras con las que actualmente cuenta la Facultad de Derecho, Ciencias Políticas y Sociales son cuatro: Derecho, Ciencias de la Comunicación, Sociología e Historia.
-</p>
+        <p>En la Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca se utilizó el término de Facultad en vez de Carrera por la virtud, propiedad y potencia de otorgar títulos de acuerdo a las cátedras que se impartían. Todavía en el siglo XVIII sigue llamándose Facultad de Sagrada Teología y Derecho a la que se sumaría en febrero del año 1776 la Real Academia Carolina de práctica jurídica. En el siglo XIX la Facultad jugará un rol importante en la lucha por la independencia y en la formación de las leyes de la nueva nación. En el siglo XX albergará dos Carreras: Derecho y Comunicación Social; y en el siglo XXI se fortalece la Facultad de Derecho, Ciencias Políticas y Sociales que fue la primera en crearse, con la incorporación de las Carreras de Sociología e Historia.
+
+La Dirección del Instituto de Sociología Boliviana (ISBO) y la Dirección de la Carrera de Derecho en la gestión 2005 diseñaron el proyecto de creación de la Carrera de Sociología, el cuál fue presentado mediante resolución 024/2005 al Honorable Consejo Facultativo quién aprobó el mismo en todas sus partes y el 13 de diciembre del 2005 autorizó su creación. El 21 de diciembre del mismo año, surge el dictamen Nro. 25/2005 de la Comisión Académica de la Universidad, en la que se aprueba su creación.
+
+El 7 de abril del 2006 en función a lo dispuesto por el Estatuto Orgánico de la Universidad, amparado en el Artículo 9 incisos b), d), g), y u) se determina la aprobación de su creación al interior de la Facultad y su funcionamiento a partir del mes de mayo del 2006, en el ex edificio Cintatex de la Plazuela del Inisterio que comparte con el ISBO, la hemeroteca y el centro Juana Azurduy.</p>
       </div>
 
     </section>

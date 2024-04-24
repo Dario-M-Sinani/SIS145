@@ -124,10 +124,10 @@ body{
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="derecho.php">Derecho </a></li>
                   <li>
-                    <a class="dropdown-item" href="comunicacion.php">Comunicacion sociol</a>
+                    <a class="dropdown-item" href="#">Comunicacion sociol</a>
                   </li>
-                  <li><a class="dropdown-item" href="sociologia.php">Sociologia</a></li>
-                  <li><a class="dropdown-item" href="historia.php">Historia</a></li>
+                  <li><a class="dropdown-item" href="#">Sociologia</a></li>
+                  <li><a class="dropdown-item" href="#">Historia</a></li>
                   <li><hr class="dropdown-divider" /></li>
                   <li>
                     
@@ -139,13 +139,15 @@ body{
 
 
       <div class="tarjeta">
-  <img src="images/derecho_logo.jpg" alt="Imagen de la tarjeta" class="imagen-tarjeta">
+  <img src="images/sociologia_logo.jpg" alt="Imagen de la tarjeta" class="imagen-tarjeta">
   <div class="texto-tarjeta">
     <h2>Datos Generales</h2>
     <ul> 
         <li><h3>Grado Academico:</h3> Licenciatura</li>
+        <li><h3>Diploma Academico:</h3> Licenciado o licenciada en sociologia</li>
         <li><h3>Tiempo de Profesionalización:</h3>     5 años</li>
         <li><h3>Modalidad de Admisión:</h3>                Exámen de Admisión</li>
+        <li><h3>Modalidad de Evaluacion:</h3> Anualizada</li>
         <li><h3>Modalidad de Graduación:</h3>  
             <li>Trabajo Dirigido</li>
 <li>Proyecto de Grado</li>
@@ -153,10 +155,7 @@ body{
 <li>Excelencia Académica</li>
 
 <li>Tesis de Grado</li>
-
-<li>Internado</li></li>
-<li><h3>Diploma academico:</h3> Licenciado en Derecho, Ciencias Políticas y Sociales,</li>
-<li><h3>Titulo de provicion nacional</h3>Abogado</li>
+<li><h3>Titulo de provicion nacional</h3>Socióloga o Sociólogo</li>
     </ul>
   </div>
 </div>
